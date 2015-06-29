@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ff52f3f_8505467d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1848
+      },
+      "writtenOn": "2015-06-29T11:46:29Z",
+      "side": 1,
+      "message": "When I spoke with Dees_Troy he mentioned that the current DEVICE_RESOLUTION handling (where it\u0027s parsed into TW_THEME dynamically) would not be going away anytime soon.  And if he chooses to change how certain resolutions are handled, then we\u0027ll need to edit this setting again later.\n\nI\u0027m inclined to hold off.",
+      "range": {
+        "startLine": 43,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 8
+      },
+      "revId": "17192ed8e45a65e5f1da0054121da70a3037c71d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
